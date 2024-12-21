@@ -1,0 +1,11 @@
+## RISC-V Cache Simulator (CS23BTECH11037)
+
+This lab assignment is to create a Cache Simulator to replicate Ripes in terminal mode along with cache simulation.   
+
+### Files Provided:
+- Makefile (to compile and produce the executable named riscv_sim)  
+- test.cpp , main.cpp , test.hh, README, Report.pdf
+
+### Process to start simulator
+- Type make to compile the files together
+- Enter `riscv_sim` to run the code.
